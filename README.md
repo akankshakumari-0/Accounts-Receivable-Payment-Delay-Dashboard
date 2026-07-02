@@ -33,7 +33,14 @@ This Power BI dashboard provides insights into accounts receivable performance, 
 - Customer AA58 generated the highest invoice amount.
 - Invoice trends varied across months with peak activity in December.
 
+## Dataset
+
+The dataset used for this project contains invoice, customer, payment, and accounts receivable transaction details. It includes information related to invoice amounts, payment terms, payment methods, customer details, document dates, and payment delays. The dataset is used to analyze customer payment behavior and monitor accounts receivable performance.
+
 ## Author
 
-**Akanksha Kumari**
+**Akanksha Kumari**  
 MBA (Data Analytics) | Aspiring Data Analyst
+
+- LinkedIn: https://www.linkedin.com/in/akanksha-k-353a1b414
+- GitHub: https://github.com/akankshakumari-0
